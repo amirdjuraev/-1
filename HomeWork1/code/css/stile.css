@@ -1,0 +1,73 @@
+#a {
+    border: 2px solid red;
+    width: 500px;
+    height: 500px;
+}
+
+#b {
+    border: 2px solid green;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    height: 450px;
+    width: 220px;
+}
+
+#c {
+    border: 2px solid red;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    height: 600px;
+    width: 550px;
+}
+
+#d {
+    border: 2px dotted black;
+    width: 1000px;
+    height: 350px;
+    text-align: justify;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 200px;
+}
+
+#img1 {
+    width: 200px;
+    height: 100px;
+    float: left;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+#img2 {
+    width: 200px;
+    height: 100px;
+    float: right;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.red {
+    color: red;
+}
+
+.yl {
+    color: yellow;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+body {
+    background-color: cyan;
+}
